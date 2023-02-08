@@ -5,11 +5,11 @@ The format of request should be something look like this:
 
 Here is the image of my code of this String Server:
 
-![alt text](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/StringServer%20code.png)
+![alt text](https://liopold35894.github.io/cse15l-lab-reports/StringServer%20code.png)
 
 After we execute the program, we can then use the generated link and go to our string server. 
 Here is the image of example using `Hello` after equal sign for the request:
-![alt text](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/StringServer-Hello%20message.png)
+![alt text](https://liopold35894.github.io/cse15l-lab-reports/StringServer-Hello%20message.png)
 
 ```Server.start(port, new Handler());``` starts the server with port number (i.e 9487) and a handler object.
 When we enter the url, the `handleRequest` method is called, and the url is passed into the method as an argument.
@@ -17,7 +17,7 @@ The string array `parameters` save the string we enter in after the equal sign i
 String are saved inside the string `str` and returned to the web page. That's why we can see the Hello message. 
 
 Now we have another request is to change the string input in url to `How are you`. Here is the image of what happened:
-![alt text](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/StringServer-How%20are%20you%20message.png)
+![alt text](https://liopold35894.github.io/cse15l-lab-reports/StringServer-How%20are%20you%20message.png)
 
 As you can see now, instead of `Hello`, we have both `Hello` and `How are you`. The code went through similar steps, 
 but it saves the previous message request in the parameters array, so both message is being returned at once. 
@@ -38,7 +38,7 @@ So I use 1, 2, 3 for one of the test to test out the method. Here's the code:
   }
 ```
 And it failed. Here's the image of the failed message:
-![alt text](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/testReversed%20fail%20message.png)
+![alt text](https://liopold35894.github.io/cse15l-lab-reports/testReversed%20fail%20message.png)
 
 But the program did passes this test:
 ```
@@ -49,7 +49,7 @@ But the program did passes this test:
   }
 ```
 When testing with an empty array, it passed:
-![alt text](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/testReversed-empty%20array%20passed.png)
+![alt text](https://liopold35894.github.io/cse15l-lab-reports/testReversed-empty%20array%20passed.png)
 
 Here's the original code for this program:
 ```
