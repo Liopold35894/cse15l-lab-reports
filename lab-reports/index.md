@@ -25,7 +25,7 @@ but it saves the previous message request in the parameters array, so both messa
 Now we will went on to part 2 bugs. 
 I will be using one of the bugs from lab 3 as an example, and talks about why some tests failed, and some suceed,
 and how the program is fixed.
-
+ 
 The one method that has bug that I am using is called reversed. This method will Returns a *new* array with all the 
 elements of the input array in reversed order, so a array of 1, 2, 3 will be 3, 2, 1.
 So I use 1, 2, 3 for one of the test to test out the method. Here's the code:
