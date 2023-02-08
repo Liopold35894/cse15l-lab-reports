@@ -2,7 +2,9 @@
 First we're going to create a web server called String server. It track of a single string that gets added to by incoming requests.
 The format of request should be something look like this: 
 ```/add-message?s=<string>```
+
 Here is the image of my code of this String Server:
+
 ![alt text](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/StringServer%20code.png)
 
 After we execute the program, we can then use the generated link and go to our string server. 
