@@ -4,6 +4,8 @@ I am using find command as one command to invest in to show more uses of it.
 The first one I am using is `find . -type f -name file`. This search in the current directory and its subdirectories to find a file named file. 
 `.` means the current directory, `-type f` refers to look for file. I will be using in the Abernathy directory.
 
+For reference of 4 command I am showing, visite [this](https://linuxhandbook.com/find-command-examples/)
+
 Example 1: 
 ```
 find . -type f -name ch3.txt
