@@ -51,8 +51,7 @@ find . -type f -name "*.java" -o -name "*.txt"
 Example 2:
 ```
 cd ../Berk/
-305$ cd ../Berk/
-[cs15lwi23abj@ieng6-203]:Berk:306$ find . -type f -name "*.java" -o -name "*.txt"
+find . -type f -name "*.java" -o -name "*.txt"
 ./CH4.txt
 ./ch1.txt
 ./ch2.txt
