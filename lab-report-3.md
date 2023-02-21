@@ -1,5 +1,5 @@
 # **Researching Commands**
-I am using the find command as one command to invest in to show more uses of it. 
+For this lab, I am going to show more ways to use the find command. 
 
 The first one I am using is `find . -type f -name file`. This search in the current directory and its subdirectories to find a file named file. 
 `.` means the current directory, `-type f` refers to looking for files. I will be using the Abernathy directory.
