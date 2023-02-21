@@ -65,7 +65,7 @@ The last one I am showing is `find . -size -50k`. This looks for files in the cu
 
 Example 1: (In Abernathy directory)
 ```
--size -50k
+find . -size -50k
 .
 ./ch1.txt
 ./ch14.txt
