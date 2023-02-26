@@ -38,10 +38,9 @@ I also use 3 up to access `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2
 ![](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/step%208.png?raw=true)
   
 Step 9: Commit and push the resulting change to your Github account
-Keys pressed: `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter> <up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>
-<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`
-Description: `git add ListExamples.java` command was 21 up in the search history, so I use the arrow to access it, and pressed enter to add changes to the directory. Then I access `git commit ListExamples.java -m "Updated"` 
-with another 21 up, and press enters to commit the changes with messages. Then I access `git push` with another 21 up, and press enters to push the changes back to my GitHub account.
+Keys pressed: `<up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter> <up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter> <up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><up><enter>`
+
+Description: `git add ListExamples.java` command was 21 up in the search history, so I use the arrow to access it, and pressed enter to add changes to the directory. Then I access `git commit ListExamples.java -m "Updated"` with another 21 up, and press enters to commit the changes with messages. Then I access `git push` with another 21 up, and press enters to push the changes back to my GitHub account.
 
 ![](https://github.com/Liopold35894/cse15l-lab-reports/blob/main/step%209.png?raw=true)
 
